@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on :17/08/2017, 08:48:34 PM
+    Author     : Cuenu
+*/
+
+.calculadora { border: 3px groove ; width: 250px;text-align: center;
+               background-color: grey; }
+
+					 
+#textoPantalla { width: 185px; border: 2px black solid; text-align: right; 
+                 position: relative; left: 23px;  padding: 0px 5px;
+                 background-color: white; font-family: "courier new"; 
+                 overflow: hidden;}
+
+
+.calculadora [type=button] { width: 35px; padding: 0;  }
+
+.calculadora input.largo { color: red; width: 60px; }
