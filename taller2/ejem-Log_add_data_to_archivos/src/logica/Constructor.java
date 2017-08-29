@@ -8,13 +8,13 @@ public class Constructor {
 		this.ejecucion1();
 		
 	}
-	@PostConstructor
+	@PostConstructor(value = "2")
 	public void ejecucion1(){
 		System.out.println("metodo ejecutar1...");
 		
 	}
 
-	@PostConstructor
+	@PostConstructor(value = "1")
 	public void ejecucion2(){
 		System.out.println("metodo ejecutar2..");
 	}
