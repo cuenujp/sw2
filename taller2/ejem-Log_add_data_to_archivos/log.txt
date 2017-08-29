@@ -1,0 +1,8 @@
+
+28/8/2017;18:38:46;  -ejecutando metodo imprimir- 
+28/8/2017;18:38:57;  -ejecutando metodo imprimir- 
+28/8/2017;18:39:9;  -ejecutando metodo imprimir- 
+28/8/2017;18:41:51;  -ejcutando metodoagregarLog- 
+28/8/2017;18:41:51;  -ejecutando metodo imprimir- 
+28/8/2017;18:43:23;  -ejcutando metodoagregarLog- 
+28/8/2017;18:43:23;  -ejecutando metodo imprimir- 
