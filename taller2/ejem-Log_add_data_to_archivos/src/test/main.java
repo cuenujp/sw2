@@ -1,6 +1,7 @@
 package test;
 
 import logica.ArchivoLog;
+import logica.Constructor;
 
 public class main {
 
@@ -9,6 +10,9 @@ public class main {
 		 ArchivoLog archivo = new ArchivoLog(); 
 	     archivo.agregarLog(" ejecucuion del main");
 	     
+	     
+	     System.out.println("\n \n segundo punto \n \n");
+	     Constructor c =new Constructor();
 	}
 
 }

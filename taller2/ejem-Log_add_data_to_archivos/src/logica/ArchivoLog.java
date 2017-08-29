@@ -3,12 +3,18 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Calendar;
 
+import javax.annotation.PostConstruct;
+
 
 public class ArchivoLog{
 
 	FileWriter archivo;
 	
 
+	
+	public ArchivoLog(){
+		
+	}
      public void crearLog(String operacion) {
 
    		if (new File("log.txt").exists() == false){
