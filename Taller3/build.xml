@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Talle3" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Talle3.</description>
+<project name="Taller3" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Taller3.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
