@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "md-content": {}
+    },
+    "attributes": {
+        "flex-gt-xs": {
+            "context": "div"
+        },
+        "layout-gt-xs": {
+            "context": "div"
+        }
+    }
+}
